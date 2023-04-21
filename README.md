@@ -172,4 +172,10 @@ Promineo Tech Academic Team
 	str.replace("old", "new")
 ```
 # Week-3-Assignments
-GitHub
+Add text to document (example from earlier):
+
+var ageRequiredToDrive = 16;
+var currentAge = 14;
+
+var canPersonDrive = currentAge >= ageRequiredToDrive;
+console.log(canPersonDrive);
